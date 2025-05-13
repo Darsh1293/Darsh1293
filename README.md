@@ -4,7 +4,7 @@
 <img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=200&section=header&text=Darsh%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Darsh1293&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 
 <!-- Contact badges with animations -->
 <div>
@@ -165,7 +165,7 @@ Detail-oriented Computer Science Engineering student passionate about transformi
 
 <!-- Project Showcase Button -->
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <a href="https://github.com/Darsh1293?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </div>
@@ -177,17 +177,17 @@ Detail-oriented Computer Science Engineering student passionate about transformi
 <div align="center">
   
 <!-- GitHub Stats Cards with enhanced styling -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darsh1293&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF)](https://github.com/Darsh1293)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darsh1293&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Darsh1293)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darsh1293&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/Darsh1293)
 
 <!-- GitHub Activity Graph -->
-[![Darsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Darsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darsh1293&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/Darsh1293)
 
 <!-- GitHub Trophies -->
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Darsh1293&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Darsh1293)
 
 </div>
 
@@ -210,4 +210,4 @@ Detail-oriented Computer Science Engineering student passionate about transformi
 
 </div>
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all instances -->
+<!-- Replace Darsh1293 with your actual GitHub username in all instances -->
